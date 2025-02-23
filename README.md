@@ -23,5 +23,5 @@ You may also see any lint errors in the console.
 1. input todoList [completed]
 2. add todolist [completed]
 3. list todoList [completed]
-4. delete and edit todoList [completed]
+4. delete button and check button todoList [completed]
 5. refresh website data todoList not missing
