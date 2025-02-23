@@ -20,8 +20,8 @@ You may also see any lint errors in the console.
 
 ### check list project
 
-1. input todoList [complete]
-2. add todolist [complete]
-3. list todoList [complete]
-4. delete and edit todoList 
+1. input todoList [completed]
+2. add todolist [completed]
+3. list todoList [completed]
+4. delete and edit todoList [completed]
 5. refresh website data todoList not missing
